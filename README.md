@@ -7,6 +7,8 @@
 The reason for making this project is to encourage issue labelling on open source projects, so that people with different types of experience and knowledge levels can easily find something to help out with.
 
 ## Getting started
+## Lets have some fun!!!
+
 
 ### Install ruby
 
@@ -56,4 +58,4 @@ Also, have a look at the [contribution guidelines](https://github.com/despo/issu
 
 ## Copyright
 
-Copyright (c) 2013-2018 Despo Pentara. See [LICENSE](https://github.com/despo/kobol/blob/master/LICENSE) for details.
+Copyright (c) 2013-2020 Despo Pentara. See [LICENSE](https://github.com/despo/kobol/blob/master/LICENSE) for details.
